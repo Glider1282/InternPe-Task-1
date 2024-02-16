@@ -1,2 +1,2 @@
-# InternPe-Task-1
+# InternPe-Tasks
 Web Development project for InternPe Internship
